@@ -2,6 +2,7 @@
 *{
     /* Margem = Extra */
     margin:0;
+    box-sizing: border-box;
 }
 
 body { 
