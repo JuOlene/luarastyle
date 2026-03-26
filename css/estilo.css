@@ -30,3 +30,13 @@ header {
     /* Largura ou comprimento */
     width: 100%;
 }
+
+/* UL sistema de lista topicos */
+.menu {
+list-style: none ;
+/* lista horizontal */
+display: flex;
+/* espaço entre TAGS */
+gap: 1rem;
+}
+
