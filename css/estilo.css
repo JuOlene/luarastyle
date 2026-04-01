@@ -45,6 +45,11 @@ gap: 1rem;
     display: none;
 }
 
+/* LOGO */
+.logo {
+    width: 10rem;
+}
+
 /* Daqui para cima Versão Mobile */
 
 /* Responsivo */
